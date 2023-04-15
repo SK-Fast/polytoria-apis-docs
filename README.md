@@ -12,6 +12,22 @@ Found some mistakes? Have new APIs endpoint? Issue and Pull request are welcome!
 
 By DevPixels(also known as [Hu Tao](https://polytoria.com/users/16342) <img src="https://cdn3.emoji.gg/emojis/1434-hutaomonkas.png" height="30">)
 
+### Contents
+Click the title to jump into!
+|Title|Base URL|
+|--|--|
+|[Store APIs](#store-apis)|https://polytoria.com/api/store|
+|[Feed APIs](#feed-apis)|https://polytoria.com/api/feed|
+|[Games APIs](#games-apis)|https://polytoria.com/api/places|
+|[Guilds APIs](#guilds-apis)|https://polytoria.com/api/guilds|
+|[Avatar APIs](#avatar-apis)|https://polytoria.com/api/avatar|
+|[Creations APIs](#creations-apis)|https://polytoria.com/api/library|
+|[Friends APIs](#friends-apis)|https://polytoria.com/api/friends|
+|[Inbox APIs](#inbox-apis)|https://polytoria.com/api/inbox|
+|[Profile APIs](#profile-apis)|Unavailable|
+|[Search APIs](#search-apis)|https://polytoria.com/api/search|
+
+
 ## Store APIs
 
 ### Fetch catalog
