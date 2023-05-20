@@ -1,5 +1,7 @@
 # Polytoria New Website APIs
 
+‼‼**The use of Polytoria Internal APIs are prohibited, use it at your own risk. [Read More](https://polytoria.com/legal/terms#5)**
+
 ‼ Polytoria Offical API Documentation is out now https://api.polytoria.com/docs
 
 something undocumented, so it's time to dig down. <img src="https://cdn3.emoji.gg/emojis/3244-trollface.png" height="30">
