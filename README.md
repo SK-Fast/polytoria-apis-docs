@@ -1,6 +1,6 @@
 # Polytoria New Website APIs
 
-‼‼**The use of Polytoria Internal APIs are prohibited, use it at your own risk. [Read More](https://polytoria.com/legal/terms#5)**
+‼‼**The use of Polytoria Internal APIs for saving data in bulk are prohibited. [Read More](https://polytoria.com/legal/terms#5)**
 
 ‼ Polytoria Offical API Documentation is out now https://api.polytoria.com/docs
 
